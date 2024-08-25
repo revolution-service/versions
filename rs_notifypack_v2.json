@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "changed": "Made config.lua readable"
+  "version": "1.0.2",
+  "changed": "Fixed the print: Unable to perform version check."
 }
